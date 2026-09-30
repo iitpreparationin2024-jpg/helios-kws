@@ -138,19 +138,7 @@ Wiring diagrams and pinouts: [`docs/hardware/`](docs/hardware/)
 
 ---
 
-## Repository map
 
-```
-helios-kws/
-├── README.md              ← you are here
-├── docs/                  ← architecture, methodology, measurements
-├── training/              ← Colab notebook + Python pipeline
-├── firmware/              ← Arduino + ESP-IDF
-├── server/                ← remote ASR (Whisper over WebSocket)
-├── tools/                 ← calibration, packaging, retraining
-├── examples/              ← wiring diagrams, sample serial output
-└── assets/                ← diagrams, logos
-```
 
 ---
 
@@ -263,15 +251,7 @@ The gate opens. Watch it live.
 
 ---
 
-## Contributing
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md). Short version:
-
-- Every claim in this README must be reproducible by a script in the repo.
-- Every new technology gets a README under `docs/tech/`.
-- Commits follow [Conventional Commits](https://www.conventionalcommits.org/).
-
----
 
 ## Citation
 

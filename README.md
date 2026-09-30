@@ -43,7 +43,7 @@ Every number below was printed to the ESP32-S3 serial monitor and logged. Nothin
 | Test accuracy (unseen speakers) | > 90 % | **96.4 %** |
 | Improvement over trivial baseline | > 5 pts | **+9.1 pts** |
 
-Full measurement methodology: [`docs/measurements.md`](docs/measurements.md)
+
 
 ---
 
